@@ -14,3 +14,5 @@ Responsive UI: Adaptable layout for mobile, tablet, and desktop.
 User Identification: Unique usernames or IDs for chat participants.
 Typing Indicator: Shows when a user is typing in the chat.
 Timestamps: Every message is tagged with the time it was sent.
+
+![image alt]()
